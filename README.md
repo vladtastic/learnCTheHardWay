@@ -1,0 +1,2 @@
+# learnCTheHardWay
+Practice the fundamentals
